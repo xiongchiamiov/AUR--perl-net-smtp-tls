@@ -2,10 +2,10 @@
 
 pkgname=perl-net-smtp-tls
 pkgver=0.12
-pkgrel=1
+pkgrel=2
 pkgdesc="Net::SMTP::TLS - An SMTP client supporting TLS and AUTH"
 arch=('i686' 'x86_64')
-url="http://search.cpan.org/perldoc?Net::SMTP::TLS"
+url="http://search.cpan.org/~awestholm/Net-SMTP-TLS/"
 license=('PerlArtistic')
 depends=('perl' 'perl-digest-hmac')
 options=(!emptydirs)
